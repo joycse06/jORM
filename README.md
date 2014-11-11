@@ -11,4 +11,4 @@ Things I learned along the way includes:
 
 and many more things.
 
-It's not anything complete and I will be coming back to it ocassionally to apply new things I learn to this project to make it a more usable one.
+It's not anything complete and I will be coming back to it ocassionally to apply new things I learn to make it a more usable one.
