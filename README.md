@@ -10,3 +10,5 @@ Things I learned along the way includes:
 * How PSR autoloaders work and defer the responsibility of loading of class files to the autoloader
 
 and many more things.
+
+It's not anything complete and I will be coming back to it ocassionally to apply new things I learn to this project to make it a more usable one.
